@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kcjesse02
-- 👀 I’m interested in Data Science, Video Games, and Web dev
-- 🌱 I’m currently learning Javascript/HTML/CSS and django backend with python!
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m interested in Security, especially with Embedded Devices
+- 🌱 I’m currently learning Embedded Rust
+- Lets do a CTF Together 😄
 - 📫 How to reach me: kcjesse02@gmail.com
 
 <!---
