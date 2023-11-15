@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kcjesse02
-- 👀 I’m interested in Security, especially with Embedded Devices
-- 🌱 I’m currently learning Embedded Rust
-- Lets do a CTF Together 😄
-- 📫 How to reach me: kcjesse02@gmail.com
+- Katherine Jesse
+- CS Student @ WPI
+- Interested in Embedded Security
+- MITRE eCTF
 
 <!---
 kcjesse02/kcjesse02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
