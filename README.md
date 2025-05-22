@@ -1,7 +1,7 @@
 - Katherine Jesse
-- CS Student @ WPI
-- Interested in Embedded Security
-- MITRE eCTF
+- WPI CS Alum - 2025
+- MITRE eCTF Alum
+- This is just for my personal projects
 
 <!---
 kcjesse02/kcjesse02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
